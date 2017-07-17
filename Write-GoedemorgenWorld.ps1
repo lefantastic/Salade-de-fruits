@@ -6,7 +6,7 @@
 .DESCRIPTION
     This runbook provides the "Hello World" example for Azure Automation....
 
-    description deleted from Github/web.
+    Edited in Github/web x2
    
 
 .PARAMETER Name
