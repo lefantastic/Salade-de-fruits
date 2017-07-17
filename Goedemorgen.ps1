@@ -20,7 +20,7 @@
 	Last Updated: 3/3/2014   
 #>
 
-workflow Write-HelloWorld {
+workflow Write-GoedemorgenWorld {
     param (
         # Optional parameter of type string. 
         # If you do not enter anything, the default value of Name 
@@ -29,5 +29,5 @@ workflow Write-HelloWorld {
         [String]$Name = "World"
     )
 
-        Write-Output "Hello $Name"
+        Write-Output "Goedemorgen $Name"
 }
