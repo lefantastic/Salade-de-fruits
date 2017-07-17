@@ -29,5 +29,5 @@ workflow Write-GoedemorgenWorld {
         [String]$Name = "World"
     )
 
-        Write-Output "Goedemorgen $Name"
+        Write-Output "Goedemorgen $Name, how goes it?"
 }
